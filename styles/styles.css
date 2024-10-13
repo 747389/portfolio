@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+}
+
+.background {
+    background-color: black;
+}
+
+.main-text {
+    color: #00FFFB;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 99px;
+}
+
+.sub-text {
+    color: #00FFFB;
+    text-align: center;
+    font-size: 40px;    
+}
+
+.seperartor {
+    background-color: #00FFFB;
+    height: 1px;
+    width: 72%;
+    margin-left: 14%;
+    margin-right: 14%;
+}
+
+.link-container {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.link {
+    color: #FF0004;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 40px;
+    text-align: center;
+}

@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+}
+
+.background {
+    background-color: black;
+}
+
+.link-container {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+.link {
+    color: #FF0004;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 40px;
+    text-align: center;
+}
+
+.seperartor {
+    background-color: #FF0004;
+    height: 1px;
+    width: 100%;
+}
+
+.title {
+    font-size: 150px;
+    color: #00FFFB;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    color: #00FFFB;
+    font-size: 40px;
+}
+
+.python-header {
+    margin-left: 50px;  
+    margin-top: 100px;
+}
+
+.img {
+    background-size:cover;
+    margin-bottom: 150px;
+}
+
+.python-img {
+    background-image: url("../resources/python.png");
+    width: 550px;
+    height: 300px;
+}
+
+.text {
+    color: #00FFFB;
+    font-size: 40px;
+}
+
+.python-text {
+    margin-left: 10px
+}
+
+.heuristics-img {
+    background-image: url("../resources/heuristics.png");
+    width: 550px;
+    height: 350px;
+}
+
+.heuristics-text {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.heuristics-header {
+    text-align: right;
+    margin-right: 100px;
+}
+
+.webdesign-img {
+    background-image: url("../resources/webdesign.png");
+    width: 620px;
+    height: 350px;
+}
+
+.webdesign-header {
+    margin-left: 135px;
+}
+
+.webdesign-text {
+    margin-left: 10px;
+}
